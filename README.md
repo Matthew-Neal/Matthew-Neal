@@ -15,6 +15,8 @@ With 10 years experience in management I am now getting certified in Full Stack 
 
 ---
 
+### Skills
+
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=ios&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
